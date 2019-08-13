@@ -1,2 +1,1 @@
-# react-wesbos-boilerplate
-react-wesbos-boilerplate
+### Start up boilerplate
